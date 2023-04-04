@@ -1,0 +1,17 @@
+/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/bin/Debug/net7.0/SingleElevatorProblem
+/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/bin/Debug/net7.0/SingleElevatorProblem.deps.json
+/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/bin/Debug/net7.0/SingleElevatorProblem.runtimeconfig.json
+/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/bin/Debug/net7.0/SingleElevatorProblem.dll
+/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/bin/Debug/net7.0/SingleElevatorProblem.pdb
+/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/bin/Debug/net7.0/CsvHelper.dll
+/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/obj/Debug/net7.0/SingleElevatorProblem.csproj.AssemblyReference.cache
+/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/obj/Debug/net7.0/SingleElevatorProblem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/obj/Debug/net7.0/SingleElevatorProblem.AssemblyInfoInputs.cache
+/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/obj/Debug/net7.0/SingleElevatorProblem.AssemblyInfo.cs
+/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/obj/Debug/net7.0/SingleElevatorProblem.csproj.CoreCompileInputs.cache
+/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/obj/Debug/net7.0/SingleElevatorProblem.csproj.CopyComplete
+/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/obj/Debug/net7.0/SingleElevatorProblem.dll
+/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/obj/Debug/net7.0/refint/SingleElevatorProblem.dll
+/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/obj/Debug/net7.0/SingleElevatorProblem.pdb
+/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/obj/Debug/net7.0/SingleElevatorProblem.genruntimeconfig.cache
+/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/obj/Debug/net7.0/ref/SingleElevatorProblem.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ETpU/AHJ+66Rl1baM0oV06WnkhF5Es/cplgfovZ88/NbOChwsIMVuPcjPBmGjbat0b6NFNg7BCYo/yys1+uiQ==",
+  "success": true,
+  "projectFilePath": "/Users/g/ElevatorProject/SingleElevatorProblem/SingleElevatorProblem/SingleElevatorProblem.csproj",
+  "expectedPackageFiles": [
+    "/Users/g/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

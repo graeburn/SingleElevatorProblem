@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F7C02288-3DCF-4CD6-9D14-99E6128CCD5F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SingleElevatorProblem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SingleElevatorProblem/TestLiftOperation.cs">
+    <Files>
+      <File FileName="SingleElevatorProblem/TestLiftOperation.cs" Line="30" Column="85" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SingleElevatorProblem" expanded="True">
+            <Node name="SingleElevatorProblem" expanded="True">
+              <Node name="ExerciseData" expanded="True" />
+              <Node name="OutputData" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
